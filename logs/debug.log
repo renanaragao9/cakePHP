@@ -1,0 +1,150 @@
+2023-08-25 23:44:38 notice: Undefined property: UsersController::$User in C:\xampp\htdocs\cakephp\teste\src\Controller\UsersController.php on line 14
+Request URL: /users
+Trace:
+Cake\Controller\Controller::__get() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php, line 337
+App\Controller\UsersController::index() C:\xampp\htdocs\cakephp\teste\src\Controller\UsersController.php, line 14
+Cake\Controller\Controller::invokeAction() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php, line 547
+Cake\Controller\ControllerFactory::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 139
+Cake\Controller\ControllerFactory::invoke() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 114
+Cake\Http\BaseApplication::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 320
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 86
+Cake\Http\Middleware\CsrfProtectionMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php, line 174
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Middleware\BodyParserMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php, line 157
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Routing\Middleware\RoutingMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php, line 186
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Routing\Middleware\AssetMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php, line 68
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 131
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+DebugKit\Middleware\DebugKitMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 60
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 67
+Cake\Http\Server::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php, line 90
+[main] C:\xampp\htdocs\cakephp\teste\webroot\index.php, line 40
+
+2023-08-26 02:02:53 notice: Undefined property: UsersController::$User in C:\xampp\htdocs\cakephp\teste\src\Controller\UsersController.php on line 14
+Request URL: /users
+Trace:
+Cake\Controller\Controller::__get() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php, line 337
+App\Controller\UsersController::index() C:\xampp\htdocs\cakephp\teste\src\Controller\UsersController.php, line 14
+Cake\Controller\Controller::invokeAction() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php, line 547
+Cake\Controller\ControllerFactory::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 139
+Cake\Controller\ControllerFactory::invoke() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 114
+Cake\Http\BaseApplication::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 320
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 86
+Cake\Http\Middleware\CsrfProtectionMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php, line 174
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Middleware\BodyParserMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php, line 157
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Routing\Middleware\RoutingMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php, line 186
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Routing\Middleware\AssetMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php, line 68
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 131
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+DebugKit\Middleware\DebugKitMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 60
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 67
+Cake\Http\Server::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php, line 90
+[main] C:\xampp\htdocs\cakephp\teste\webroot\index.php, line 40
+
+2023-08-26 02:06:29 notice: Undefined property: UsersController::$User in C:\xampp\htdocs\cakephp\teste\src\Controller\UsersController.php on line 15
+Request URL: /users
+Trace:
+Cake\Controller\Controller::__get() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php, line 337
+App\Controller\UsersController::index() C:\xampp\htdocs\cakephp\teste\src\Controller\UsersController.php, line 15
+Cake\Controller\Controller::invokeAction() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php, line 547
+Cake\Controller\ControllerFactory::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 139
+Cake\Controller\ControllerFactory::invoke() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 114
+Cake\Http\BaseApplication::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 320
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 86
+Cake\Http\Middleware\CsrfProtectionMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php, line 174
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Middleware\BodyParserMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php, line 157
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Routing\Middleware\RoutingMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php, line 186
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Routing\Middleware\AssetMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php, line 68
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 131
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+DebugKit\Middleware\DebugKitMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 60
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 67
+Cake\Http\Server::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php, line 90
+[main] C:\xampp\htdocs\cakephp\teste\webroot\index.php, line 40
+
+2023-08-27 23:46:12 notice: strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated
+Request URL: /about
+Trace:
+strpos [internal], line ??
+include C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\templates\Error\missing_controller.php, line 24
+Cake\View\View::_evaluate() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php, line 1220
+Cake\View\View::_render() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php, line 1177
+Cake\View\View::render() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php, line 808
+Cake\Controller\Controller::render() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php, line 773
+Cake\Error\Renderer\WebExceptionRenderer::_outputMessage() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 421
+Cake\Error\Renderer\WebExceptionRenderer::render() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 292
+Cake\Error\Middleware\ErrorHandlerMiddleware::handleException() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 162
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 135
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 67
+Cake\Http\Server::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php, line 90
+[main] C:\xampp\htdocs\cakephp\teste\webroot\index.php, line 40
+
+2023-08-27 23:46:12 notice: strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated
+Request URL: /about
+Trace:
+strpos [internal], line ??
+include C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\templates\Error\missing_controller.php, line 24
+Cake\View\View::_evaluate() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php, line 1220
+Cake\View\View::_render() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php, line 1177
+Cake\View\View::render() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php, line 808
+Cake\Controller\Controller::render() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php, line 773
+Cake\Error\Renderer\WebExceptionRenderer::_outputMessage() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 421
+Cake\Error\Renderer\WebExceptionRenderer::render() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 292
+Cake\Error\Middleware\ErrorHandlerMiddleware::handleException() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 162
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 135
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 67
+Cake\Http\Server::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php, line 90
+[main] C:\xampp\htdocs\cakephp\teste\webroot\index.php, line 40
+
+2023-08-27 23:46:31 notice: strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated
+Request URL: /about
+Trace:
+strpos [internal], line ??
+include C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\templates\Error\missing_controller.php, line 24
+Cake\View\View::_evaluate() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php, line 1220
+Cake\View\View::_render() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php, line 1177
+Cake\View\View::render() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php, line 808
+Cake\Controller\Controller::render() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php, line 773
+Cake\Error\Renderer\WebExceptionRenderer::_outputMessage() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 421
+Cake\Error\Renderer\WebExceptionRenderer::render() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 292
+Cake\Error\Middleware\ErrorHandlerMiddleware::handleException() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 162
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 135
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 67
+Cake\Http\Server::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php, line 90
+[main] C:\xampp\htdocs\cakephp\teste\webroot\index.php, line 40
+
+2023-08-27 23:46:31 notice: strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated
+Request URL: /about
+Trace:
+strpos [internal], line ??
+include C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\templates\Error\missing_controller.php, line 24
+Cake\View\View::_evaluate() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php, line 1220
+Cake\View\View::_render() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php, line 1177
+Cake\View\View::render() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php, line 808
+Cake\Controller\Controller::render() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php, line 773
+Cake\Error\Renderer\WebExceptionRenderer::_outputMessage() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 421
+Cake\Error\Renderer\WebExceptionRenderer::render() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 292
+Cake\Error\Middleware\ErrorHandlerMiddleware::handleException() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 162
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 135
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 67
+Cake\Http\Server::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php, line 90
+[main] C:\xampp\htdocs\cakephp\teste\webroot\index.php, line 40
+

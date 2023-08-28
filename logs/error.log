@@ -1,0 +1,2053 @@
+2023-08-25 22:59:31 error: [Cake\Http\Exception\MissingControllerException] Controller class Categorias could not be found. in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Categorias',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Categorias',
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /categorias
+2023-08-25 22:59:33 error: [Cake\Http\Exception\MissingControllerException] Controller class Categoria could not be found. in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Categoria',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Categoria',
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /categoria
+2023-08-25 22:59:36 error: [Cake\Http\Exception\MissingControllerException] Controller class Categorias could not be found. in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Categorias',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Categorias',
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /categorias
+2023-08-25 22:59:41 error: [Cake\Http\Exception\MissingControllerException] Controller class Categorias_produto could not be found. in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Categorias_produto',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Categorias_produto',
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /categorias_produto
+2023-08-25 23:00:29 error: [Cake\Http\Exception\MissingControllerException] Controller class Categorias could not be found. in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'Categorias',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'Categorias',
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /categorias
+2023-08-25 23:29:33 error: [Cake\View\Exception\MissingTemplateException] Template file `Users\index.php` could not be found.
+
+The following paths were searched:
+
+- `C:\xampp\htdocs\cakephp\teste\templates\Users\index.php`
+- `C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\templates\Users\index.php`
+ in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php on line 1398
+Exception Attributes: array (
+  'file' => 'Users\\index.php',
+  'paths' => 
+  array (
+    0 => 'C:\\xampp\\htdocs\\cakephp\\teste\\templates\\',
+    1 => 'C:\\xampp\\htdocs\\cakephp\\teste\\vendor\\cakephp\\cakephp\\templates\\',
+  ),
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php:805
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:773
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:556
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:139
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /users
+2023-08-25 23:31:06 error: [Cake\View\Exception\MissingTemplateException] Template file `Users\index.php` could not be found.
+
+The following paths were searched:
+
+- `C:\xampp\htdocs\cakephp\teste\templates\Users\index.php`
+- `C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\templates\Users\index.php`
+ in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php on line 1398
+Exception Attributes: array (
+  'file' => 'Users\\index.php',
+  'paths' => 
+  array (
+    0 => 'C:\\xampp\\htdocs\\cakephp\\teste\\templates\\',
+    1 => 'C:\\xampp\\htdocs\\cakephp\\teste\\vendor\\cakephp\\cakephp\\templates\\',
+  ),
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php:805
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:773
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:556
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:139
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /users
+2023-08-25 23:31:10 error: [Cake\View\Exception\MissingTemplateException] Template file `Users\index.php` could not be found.
+
+The following paths were searched:
+
+- `C:\xampp\htdocs\cakephp\teste\templates\Users\index.php`
+- `C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\templates\Users\index.php`
+ in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php on line 1398
+Exception Attributes: array (
+  'file' => 'Users\\index.php',
+  'paths' => 
+  array (
+    0 => 'C:\\xampp\\htdocs\\cakephp\\teste\\templates\\',
+    1 => 'C:\\xampp\\htdocs\\cakephp\\teste\\vendor\\cakephp\\cakephp\\templates\\',
+  ),
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php:805
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:773
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:556
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:139
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /users
+2023-08-25 23:42:07 error: [Cake\ORM\Exception\MissingTableClassException] Table class for alias `Users` could not be found. in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\ORM\Locator\TableLocator.php on line 243
+Exception Attributes: array (
+  0 => 'for alias `Users`',
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Datasource\Locator\AbstractLocator.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\ORM\Locator\TableLocator.php:205
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Datasource\ModelAwareTrait.php:128
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:323
+- C:\xampp\htdocs\cakephp\teste\src\Controller\UsersController.php:13
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:547
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:139
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /users
+2023-08-25 23:43:50 error: [Cake\ORM\Exception\MissingTableClassException] Table class for alias `Users` could not be found. in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\ORM\Locator\TableLocator.php on line 243
+Exception Attributes: array (
+  0 => 'for alias `Users`',
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Datasource\Locator\AbstractLocator.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\ORM\Locator\TableLocator.php:205
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Datasource\ModelAwareTrait.php:128
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:323
+- C:\xampp\htdocs\cakephp\teste\src\Controller\UsersController.php:14
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:547
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:139
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /users
+2023-08-25 23:44:09 error: [Cake\ORM\Exception\MissingTableClassException] Table class for alias `Users` could not be found. in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\ORM\Locator\TableLocator.php on line 243
+Exception Attributes: array (
+  0 => 'for alias `Users`',
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Datasource\Locator\AbstractLocator.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\ORM\Locator\TableLocator.php:205
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Datasource\ModelAwareTrait.php:128
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:323
+- C:\xampp\htdocs\cakephp\teste\src\Controller\UsersController.php:14
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:547
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:139
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /users
+2023-08-25 23:44:16 error: [Cake\ORM\Exception\MissingTableClassException] Table class for alias `Users` could not be found. in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\ORM\Locator\TableLocator.php on line 243
+Exception Attributes: array (
+  0 => 'for alias `Users`',
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Datasource\Locator\AbstractLocator.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\ORM\Locator\TableLocator.php:205
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Datasource\ModelAwareTrait.php:128
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:323
+- C:\xampp\htdocs\cakephp\teste\src\Controller\UsersController.php:14
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:547
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:139
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /users
+2023-08-25 23:44:38 error: [Error] Call to a member function find() on null in C:\xampp\htdocs\cakephp\teste\src\Controller\UsersController.php on line 14
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:547
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:139
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /users
+2023-08-25 23:44:38 warning: Unable to emit headers. Headers sent in file=C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Renderer\HtmlErrorRenderer.php line=36
+Request URL: /users
+Trace:
+Cake\Http\ResponseEmitter::emit() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 71
+Cake\Http\Server::emit() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php, line 128
+[main] C:\xampp\htdocs\cakephp\teste\webroot\index.php, line 40
+
+2023-08-25 23:44:38 warning: Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Renderer\HtmlErrorRenderer.php:36)
+Request URL: /users
+Trace:
+header [internal], line ??
+Cake\Http\ResponseEmitter::emitStatusLine() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 168
+Cake\Http\ResponseEmitter::emit() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 74
+Cake\Http\Server::emit() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php, line 128
+[main] C:\xampp\htdocs\cakephp\teste\webroot\index.php, line 40
+
+2023-08-25 23:44:38 warning: Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Renderer\HtmlErrorRenderer.php:36)
+Request URL: /users
+Trace:
+header [internal], line ??
+Cake\Http\ResponseEmitter::emitHeaders() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 197
+Cake\Http\ResponseEmitter::emit() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 75
+Cake\Http\Server::emit() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php, line 128
+[main] C:\xampp\htdocs\cakephp\teste\webroot\index.php, line 40
+
+2023-08-25 23:44:38 warning: Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Renderer\HtmlErrorRenderer.php:36)
+Request URL: /users
+Trace:
+header [internal], line ??
+Cake\Http\ResponseEmitter::emitHeaders() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 197
+Cake\Http\ResponseEmitter::emit() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 75
+Cake\Http\Server::emit() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php, line 128
+[main] C:\xampp\htdocs\cakephp\teste\webroot\index.php, line 40
+
+2023-08-25 23:44:46 error: [Cake\ORM\Exception\MissingTableClassException] Table class for alias `Users` could not be found. in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\ORM\Locator\TableLocator.php on line 243
+Exception Attributes: array (
+  0 => 'for alias `Users`',
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Datasource\Locator\AbstractLocator.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\ORM\Locator\TableLocator.php:205
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Datasource\ModelAwareTrait.php:128
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:323
+- C:\xampp\htdocs\cakephp\teste\src\Controller\UsersController.php:14
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:547
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:139
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /users
+2023-08-26 01:53:58 error: [Cake\ORM\Exception\MissingTableClassException] Table class for alias `Users` could not be found. in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\ORM\Locator\TableLocator.php on line 243
+Exception Attributes: array (
+  0 => 'for alias `Users`',
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Datasource\Locator\AbstractLocator.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\ORM\Locator\TableLocator.php:205
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Datasource\ModelAwareTrait.php:128
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:323
+- C:\xampp\htdocs\cakephp\teste\src\Controller\UsersController.php:14
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:547
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:139
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /users
+2023-08-26 01:55:01 error: [Cake\ORM\Exception\MissingTableClassException] Table class for alias `Users` could not be found. in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\ORM\Locator\TableLocator.php on line 243
+Exception Attributes: array (
+  0 => 'for alias `Users`',
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Datasource\Locator\AbstractLocator.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\ORM\Locator\TableLocator.php:205
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Datasource\ModelAwareTrait.php:128
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:323
+- C:\xampp\htdocs\cakephp\teste\src\Controller\UsersController.php:14
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:547
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:139
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /users
+2023-08-26 01:55:12 error: [Cake\ORM\Exception\MissingTableClassException] Table class for alias `Users` could not be found. in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\ORM\Locator\TableLocator.php on line 243
+Exception Attributes: array (
+  0 => 'for alias `Users`',
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Datasource\Locator\AbstractLocator.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\ORM\Locator\TableLocator.php:205
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Datasource\ModelAwareTrait.php:128
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:323
+- C:\xampp\htdocs\cakephp\teste\src\Controller\UsersController.php:14
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:547
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:139
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /users
+2023-08-26 02:01:46 error: [Cake\ORM\Exception\MissingTableClassException] Table class for alias `Users` could not be found. in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\ORM\Locator\TableLocator.php on line 243
+Exception Attributes: array (
+  0 => 'for alias `Users`',
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Datasource\Locator\AbstractLocator.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\ORM\Locator\TableLocator.php:205
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Datasource\ModelAwareTrait.php:128
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:323
+- C:\xampp\htdocs\cakephp\teste\src\Controller\UsersController.php:14
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:547
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:139
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /users
+2023-08-26 02:02:53 error: [Error] Call to a member function find() on null in C:\xampp\htdocs\cakephp\teste\src\Controller\UsersController.php on line 14
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:547
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:139
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /users
+2023-08-26 02:02:53 warning: Unable to emit headers. Headers sent in file=C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Renderer\HtmlErrorRenderer.php line=36
+Request URL: /users
+Trace:
+Cake\Http\ResponseEmitter::emit() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 71
+Cake\Http\Server::emit() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php, line 128
+[main] C:\xampp\htdocs\cakephp\teste\webroot\index.php, line 40
+
+2023-08-26 02:02:53 warning: Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Renderer\HtmlErrorRenderer.php:36)
+Request URL: /users
+Trace:
+header [internal], line ??
+Cake\Http\ResponseEmitter::emitStatusLine() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 168
+Cake\Http\ResponseEmitter::emit() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 74
+Cake\Http\Server::emit() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php, line 128
+[main] C:\xampp\htdocs\cakephp\teste\webroot\index.php, line 40
+
+2023-08-26 02:02:53 warning: Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Renderer\HtmlErrorRenderer.php:36)
+Request URL: /users
+Trace:
+header [internal], line ??
+Cake\Http\ResponseEmitter::emitHeaders() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 197
+Cake\Http\ResponseEmitter::emit() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 75
+Cake\Http\Server::emit() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php, line 128
+[main] C:\xampp\htdocs\cakephp\teste\webroot\index.php, line 40
+
+2023-08-26 02:02:53 warning: Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Renderer\HtmlErrorRenderer.php:36)
+Request URL: /users
+Trace:
+header [internal], line ??
+Cake\Http\ResponseEmitter::emitHeaders() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 197
+Cake\Http\ResponseEmitter::emit() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 75
+Cake\Http\Server::emit() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php, line 128
+[main] C:\xampp\htdocs\cakephp\teste\webroot\index.php, line 40
+
+2023-08-26 02:03:01 error: [Cake\ORM\Exception\MissingTableClassException] Table class for alias `Users` could not be found. in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\ORM\Locator\TableLocator.php on line 243
+Exception Attributes: array (
+  0 => 'for alias `Users`',
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Datasource\Locator\AbstractLocator.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\ORM\Locator\TableLocator.php:205
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Datasource\ModelAwareTrait.php:128
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:323
+- C:\xampp\htdocs\cakephp\teste\src\Controller\UsersController.php:14
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:547
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:139
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /users
+2023-08-26 02:05:38 error: [Cake\ORM\Exception\MissingTableClassException] Table class for alias `Users` could not be found. in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\ORM\Locator\TableLocator.php on line 243
+Exception Attributes: array (
+  0 => 'for alias `Users`',
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Datasource\Locator\AbstractLocator.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\ORM\Locator\TableLocator.php:205
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Datasource\ModelAwareTrait.php:128
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:323
+- C:\xampp\htdocs\cakephp\teste\src\Controller\UsersController.php:14
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:547
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:139
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /users
+2023-08-26 02:06:29 error: [Error] Call to a member function find() on null in C:\xampp\htdocs\cakephp\teste\src\Controller\UsersController.php on line 15
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:547
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:139
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /users
+2023-08-26 02:06:30 warning: Unable to emit headers. Headers sent in file=C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Renderer\HtmlErrorRenderer.php line=36
+Request URL: /users
+Trace:
+Cake\Http\ResponseEmitter::emit() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 71
+Cake\Http\Server::emit() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php, line 128
+[main] C:\xampp\htdocs\cakephp\teste\webroot\index.php, line 40
+
+2023-08-26 02:06:30 warning: Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Renderer\HtmlErrorRenderer.php:36)
+Request URL: /users
+Trace:
+header [internal], line ??
+Cake\Http\ResponseEmitter::emitStatusLine() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 168
+Cake\Http\ResponseEmitter::emit() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 74
+Cake\Http\Server::emit() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php, line 128
+[main] C:\xampp\htdocs\cakephp\teste\webroot\index.php, line 40
+
+2023-08-26 02:06:30 warning: Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Renderer\HtmlErrorRenderer.php:36)
+Request URL: /users
+Trace:
+header [internal], line ??
+Cake\Http\ResponseEmitter::emitHeaders() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 197
+Cake\Http\ResponseEmitter::emit() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 75
+Cake\Http\Server::emit() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php, line 128
+[main] C:\xampp\htdocs\cakephp\teste\webroot\index.php, line 40
+
+2023-08-26 02:06:30 warning: Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Renderer\HtmlErrorRenderer.php:36)
+Request URL: /users
+Trace:
+header [internal], line ??
+Cake\Http\ResponseEmitter::emitHeaders() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 197
+Cake\Http\ResponseEmitter::emit() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\ResponseEmitter.php, line 75
+Cake\Http\Server::emit() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php, line 128
+[main] C:\xampp\htdocs\cakephp\teste\webroot\index.php, line 40
+
+2023-08-26 02:06:42 error: [Cake\ORM\Exception\MissingTableClassException] Table class for alias `Users` could not be found. in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\ORM\Locator\TableLocator.php on line 243
+Exception Attributes: array (
+  0 => 'for alias `Users`',
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Datasource\Locator\AbstractLocator.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\ORM\Locator\TableLocator.php:205
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Datasource\ModelAwareTrait.php:128
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:323
+- C:\xampp\htdocs\cakephp\teste\src\Controller\UsersController.php:15
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:547
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:139
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /users
+2023-08-26 02:08:00 error: [Cake\ORM\Exception\MissingTableClassException] Table class for alias `Users` could not be found. in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\ORM\Locator\TableLocator.php on line 243
+Exception Attributes: array (
+  0 => 'for alias `Users`',
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Datasource\Locator\AbstractLocator.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\ORM\Locator\TableLocator.php:205
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Datasource\ModelAwareTrait.php:128
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:323
+- C:\xampp\htdocs\cakephp\teste\src\Controller\UsersController.php:15
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:547
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:139
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /users
+2023-08-26 02:11:17 error: [Cake\ORM\Exception\MissingTableClassException] Table class for alias `Users` could not be found. in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\ORM\Locator\TableLocator.php on line 243
+Exception Attributes: array (
+  0 => 'for alias `Users`',
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Datasource\Locator\AbstractLocator.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\ORM\Locator\TableLocator.php:205
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Datasource\ModelAwareTrait.php:128
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:323
+- C:\xampp\htdocs\cakephp\teste\src\Controller\UsersController.php:15
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:547
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:139
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /users
+2023-08-27 21:16:19 error: [Cake\Routing\Exception\MissingRouteException] A route matching "/" could not be found. in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\RouteCollection.php on line 197
+Exception Attributes: array (
+  'url' => '/',
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Router.php:232
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /
+2023-08-27 22:39:14 error: [ParseError] syntax error, unexpected token ":", expecting ")" in C:\xampp\htdocs\cakephp\teste\config\routes.php on line 7
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /
+2023-08-27 22:39:14 error: [ParseError] syntax error, unexpected token ":", expecting ")" in C:\xampp\htdocs\cakephp\teste\config\routes.php on line 7
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /debug-kit/toolbar/840609cc-35b5-4c1e-a8d9-ead303771a77
+Referer URL: http://localhost:8000/
+2023-08-27 22:49:44 error: [ParseError] syntax error, unexpected token ":", expecting ")" in C:\xampp\htdocs\cakephp\teste\config\routes.php on line 7
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /
+2023-08-27 22:49:45 error: [ParseError] syntax error, unexpected token ":", expecting ")" in C:\xampp\htdocs\cakephp\teste\config\routes.php on line 7
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /debug-kit/toolbar/b5d2a19d-104d-4e64-833e-bebfd65e1019
+Referer URL: http://localhost:8000/
+2023-08-27 22:50:59 error: [ParseError] syntax error, unexpected token ":", expecting ")" in C:\xampp\htdocs\cakephp\teste\config\routes.php on line 7
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /
+2023-08-27 22:50:59 error: [ParseError] syntax error, unexpected token ":", expecting ")" in C:\xampp\htdocs\cakephp\teste\config\routes.php on line 7
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /debug-kit/toolbar/14870b34-5d1e-4d57-a8e5-4ce693fb289c
+Referer URL: http://localhost:8000/
+2023-08-27 22:51:00 error: [ParseError] syntax error, unexpected token ":", expecting ")" in C:\xampp\htdocs\cakephp\teste\config\routes.php on line 7
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /
+2023-08-27 22:51:01 error: [ParseError] syntax error, unexpected token ":", expecting ")" in C:\xampp\htdocs\cakephp\teste\config\routes.php on line 7
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /debug-kit/toolbar/92f9de65-980d-4b79-8515-747b706b07f9
+Referer URL: http://localhost:8000/
+2023-08-27 22:51:01 error: [ParseError] syntax error, unexpected token ":", expecting ")" in C:\xampp\htdocs\cakephp\teste\config\routes.php on line 7
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /
+2023-08-27 22:51:02 error: [ParseError] syntax error, unexpected token ":", expecting ")" in C:\xampp\htdocs\cakephp\teste\config\routes.php on line 7
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /debug-kit/toolbar/bd6ccc94-90c5-4b69-bb97-b40166b529a2
+Referer URL: http://localhost:8000/
+2023-08-27 22:51:17 error: [ParseError] syntax error, unexpected token ":", expecting ")" in C:\xampp\htdocs\cakephp\teste\config\routes.php on line 7
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /
+2023-08-27 22:51:17 error: [ParseError] syntax error, unexpected token ":", expecting ")" in C:\xampp\htdocs\cakephp\teste\config\routes.php on line 7
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /debug-kit/toolbar/0dec448a-63ea-4cb4-ad3c-561e0121e78f
+Referer URL: http://localhost:8000/
+2023-08-27 22:51:56 error: [ParseError] syntax error, unexpected token ":", expecting ")" in C:\xampp\htdocs\cakephp\teste\config\routes.php on line 7
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /
+2023-08-27 22:51:57 error: [ParseError] syntax error, unexpected token ":", expecting ")" in C:\xampp\htdocs\cakephp\teste\config\routes.php on line 7
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /debug-kit/toolbar/6f2ac249-e5a5-46bc-8b63-4ddf6b285baf
+Referer URL: http://localhost:8000/
+2023-08-27 22:51:58 error: [ParseError] syntax error, unexpected token ":", expecting ")" in C:\xampp\htdocs\cakephp\teste\config\routes.php on line 7
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /
+2023-08-27 22:51:59 error: [ParseError] syntax error, unexpected token ":", expecting ")" in C:\xampp\htdocs\cakephp\teste\config\routes.php on line 7
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /debug-kit/toolbar/7fe1186c-f581-4aa7-bcab-82b89906c394
+Referer URL: http://localhost:8000/
+2023-08-27 22:54:35 error: [ParseError] syntax error, unexpected token ":", expecting ")" in C:\xampp\htdocs\cakephp\teste\config\routes.php on line 7
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /
+2023-08-27 22:54:36 error: [ParseError] syntax error, unexpected token ":", expecting ")" in C:\xampp\htdocs\cakephp\teste\config\routes.php on line 7
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /debug-kit/toolbar/5ab299b0-911a-4197-80d1-246c73518d1b
+Referer URL: http://localhost:8000/
+2023-08-27 22:55:44 error: [Cake\Http\Exception\MissingControllerException] Controller class home could not be found. in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'home',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'home',
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:333
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:72
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /
+2023-08-27 23:05:11 error: [Cake\Http\Exception\MissingControllerException] Controller class about could not be found. in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => 'about',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => 'about',
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:333
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:72
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /about
+2023-08-27 23:33:41 error: [Cake\Routing\Exception\MissingRouteException] A route matching "/product" could not be found. in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\RouteCollection.php on line 197
+Exception Attributes: array (
+  'url' => '/product',
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Router.php:232
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /product
+2023-08-27 23:35:53 error: [Cake\Routing\Exception\MissingRouteException] A route matching "/product" could not be found. in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\RouteCollection.php on line 197
+Exception Attributes: array (
+  'url' => '/product',
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Router.php:232
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /product
+2023-08-27 23:35:56 error: [Cake\Routing\Exception\MissingRouteException] A route matching "/product/" could not be found. in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\RouteCollection.php on line 197
+Exception Attributes: array (
+  'url' => '/product/',
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Router.php:232
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /product/
+2023-08-27 23:40:30 error: [ParseError] syntax error, unexpected token "=>", expecting ")" in C:\xampp\htdocs\cakephp\teste\config\routes.php on line 16
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /product/5
+2023-08-27 23:41:14 error: [Cake\Routing\Exception\MissingRouteException] A route matching "/product/asdasd" could not be found. in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\RouteCollection.php on line 197
+Exception Attributes: array (
+  'url' => '/product/asdasd',
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Router.php:232
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /product/asdasd
+2023-08-27 23:46:12 error: [Cake\Http\Exception\MissingControllerException] Controller class  could not be found. in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => NULL,
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:333
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:72
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /about
+2023-08-27 23:46:31 error: [Cake\Http\Exception\MissingControllerException] Controller class  could not be found. in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'controller' => NULL,
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+  'class' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:333
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:72
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /about
+2023-08-27 23:48:50 error: [Cake\Controller\Exception\InvalidParameterException] Missing passed parameter for `arg1` in action Product::show(). in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 243
+Exception Attributes: array (
+  'parameter' => 'arg1',
+  'controller' => 'Product',
+  'action' => 'show',
+  'prefix' => NULL,
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:137
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /product/2
+2023-08-27 23:52:56 error: [Cake\Routing\Exception\MissingRouteException] A route matching "/product/dasd" could not be found. in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\RouteCollection.php on line 197
+Exception Attributes: array (
+  'url' => '/product/dasd',
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Router.php:232
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /product/dasd
+2023-08-28 00:15:40 error: [Cake\Routing\Exception\MissingRouteException] A route matching "/admin/5" could not be found. in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\RouteCollection.php on line 197
+Exception Attributes: array (
+  'url' => '/admin/5',
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Router.php:232
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /admin/5
+2023-08-28 00:15:46 error: [Cake\Controller\Exception\MissingActionException] Action AdminUsersController::show() could not be found, or is not accessible. in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Exception Attributes: array (
+  'controller' => 'AdminUsersController',
+  'action' => 'show',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /admin/users/4
+2023-08-28 00:17:13 error: [Cake\View\Exception\MissingTemplateException] Template file `AdminUsers\show.php` could not be found.
+
+The following paths were searched:
+
+- `C:\xampp\htdocs\cakephp\teste\templates\AdminUsers\show.php`
+- `C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\templates\AdminUsers\show.php`
+ in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php on line 1398
+Exception Attributes: array (
+  'file' => 'AdminUsers\\show.php',
+  'paths' => 
+  array (
+    0 => 'C:\\xampp\\htdocs\\cakephp\\teste\\templates\\',
+    1 => 'C:\\xampp\\htdocs\\cakephp\\teste\\vendor\\cakephp\\cakephp\\templates\\',
+  ),
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php:805
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:773
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:556
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:139
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /admin/users/12
+2023-08-28 00:33:13 error: [TypeError] SebastianBergmann\CodeCoverage\Report\Html\Renderer::__construct(): Argument #2 ($generator) must be of type string, array given, called in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\RouteBuilder.php on line 755 in C:\xampp\htdocs\cakephp\teste\vendor\phpunit\php-code-coverage\src\Report\Html\Renderer.php on line 64
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\RouteBuilder.php:755
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\RouteBuilder.php:559
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\RouteBuilder.php:447
+- C:\xampp\htdocs\cakephp\teste\config\routes.php:17
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\RouteBuilder.php:946
+- C:\xampp\htdocs\cakephp\teste\config\routes.php:22
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php:200
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /admin/users/12
+2023-08-28 00:33:56 error: [TypeError] SebastianBergmann\CodeCoverage\Report\Html\Renderer::__construct(): Argument #2 ($generator) must be of type string, array given, called in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\RouteBuilder.php on line 755 in C:\xampp\htdocs\cakephp\teste\vendor\phpunit\php-code-coverage\src\Report\Html\Renderer.php on line 64
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\RouteBuilder.php:755
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\RouteBuilder.php:559
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\RouteBuilder.php:447
+- C:\xampp\htdocs\cakephp\teste\config\routes.php:17
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\RouteBuilder.php:946
+- C:\xampp\htdocs\cakephp\teste\config\routes.php:22
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php:200
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /admin/users/12
+2023-08-28 00:47:31 error: [Cake\Controller\Exception\MissingActionException] Action HomeController::index() could not be found, or is not accessible. in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'index',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /
+2023-08-28 01:13:01 error: [Cake\View\Exception\MissingTemplateException] Template file `About\index.php` could not be found.
+
+The following paths were searched:
+
+- `C:\xampp\htdocs\cakephp\teste\templates\About\index.php`
+- `C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\templates\About\index.php`
+ in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php on line 1398
+Exception Attributes: array (
+  'file' => 'About\\index.php',
+  'paths' => 
+  array (
+    0 => 'C:\\xampp\\htdocs\\cakephp\\teste\\templates\\',
+    1 => 'C:\\xampp\\htdocs\\cakephp\\teste\\vendor\\cakephp\\cakephp\\templates\\',
+  ),
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php:805
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:773
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:556
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:139
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /about
+2023-08-28 01:20:21 error: [Error] Call to undefined method App\View\AppView::star() in C:\xampp\htdocs\cakephp\teste\templates\About\index.php on line 2
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php:1220
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php:1177
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php:808
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:773
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:556
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:139
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /about
+2023-08-28 01:20:37 error: [Error] Call to undefined method App\View\AppView::star() in C:\xampp\htdocs\cakephp\teste\templates\About\index.php on line 2
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php:1220
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php:1177
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php:808
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:773
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:556
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:139
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /about
+2023-08-28 01:20:44 error: [Cake\View\Exception\MissingHelperException] Helper class endHelper could not be found. in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\HelperRegistry.php on line 132
+Exception Attributes: array (
+  'class' => 'endHelper',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Core\ObjectRegistry.php:102
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\HelperRegistry.php:70
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php:1130
+- C:\xampp\htdocs\cakephp\teste\templates\About\index.php:4
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php:1220
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php:1177
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php:808
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:773
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:556
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:139
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /about
+2023-08-28 01:28:23 error: [Cake\View\Exception\MissingElementException] Element file `sidebar.php` could not be found.
+
+The following paths were searched:
+
+- `C:\xampp\htdocs\cakephp\teste\templates\element\sidebar.php`
+- `C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\templates\element\sidebar.php`
+ in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php on line 708
+Exception Attributes: array (
+  'file' => 'sidebar.php',
+  'paths' => 
+  array (
+    0 => 'C:\\xampp\\htdocs\\cakephp\\teste\\templates\\element\\',
+    1 => 'C:\\xampp\\htdocs\\cakephp\\teste\\vendor\\cakephp\\cakephp\\templates\\element\\',
+  ),
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\templates\Home\index.php:4
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php:1220
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php:1177
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php:808
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:773
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php:556
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:139
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /
+2023-08-28 01:35:54 error: [Cake\Routing\Exception\MissingRouteException] A route matching "/abault" could not be found. in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\RouteCollection.php on line 197
+Exception Attributes: array (
+  'url' => '/abault',
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Router.php:232
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /abault
+2023-08-28 01:48:43 warning: compact(): Undefined variable $nome
+Request URL: /
+Referer URL: http://localhost:8000/about
+Trace:
+compact [internal], line ??
+App\Controller\HomeController::index() C:\xampp\htdocs\cakephp\teste\src\Controller\HomeController.php, line 17
+Cake\Controller\Controller::invokeAction() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php, line 547
+Cake\Controller\ControllerFactory::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 139
+Cake\Controller\ControllerFactory::invoke() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 114
+Cake\Http\BaseApplication::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 320
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 86
+Cake\Http\Middleware\CsrfProtectionMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php, line 174
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Middleware\BodyParserMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php, line 157
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Routing\Middleware\RoutingMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php, line 186
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Routing\Middleware\AssetMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php, line 68
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 131
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 67
+Cake\Http\Server::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php, line 90
+[main] C:\xampp\htdocs\cakephp\teste\webroot\index.php, line 40
+
+2023-08-28 01:49:09 warning: compact(): Undefined variable $nome
+Request URL: /
+Referer URL: http://localhost:8000/about
+Trace:
+compact [internal], line ??
+App\Controller\HomeController::index() C:\xampp\htdocs\cakephp\teste\src\Controller\HomeController.php, line 17
+Cake\Controller\Controller::invokeAction() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php, line 547
+Cake\Controller\ControllerFactory::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 139
+Cake\Controller\ControllerFactory::invoke() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 114
+Cake\Http\BaseApplication::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 320
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 86
+Cake\Http\Middleware\CsrfProtectionMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php, line 174
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Middleware\BodyParserMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php, line 157
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Routing\Middleware\RoutingMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php, line 186
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Routing\Middleware\AssetMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php, line 68
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 131
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 67
+Cake\Http\Server::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php, line 90
+[main] C:\xampp\htdocs\cakephp\teste\webroot\index.php, line 40
+
+2023-08-28 01:49:10 warning: compact(): Undefined variable $nome
+Request URL: /
+Referer URL: http://localhost:8000/about
+Trace:
+compact [internal], line ??
+App\Controller\HomeController::index() C:\xampp\htdocs\cakephp\teste\src\Controller\HomeController.php, line 17
+Cake\Controller\Controller::invokeAction() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php, line 547
+Cake\Controller\ControllerFactory::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 139
+Cake\Controller\ControllerFactory::invoke() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 114
+Cake\Http\BaseApplication::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 320
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 86
+Cake\Http\Middleware\CsrfProtectionMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php, line 174
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Middleware\BodyParserMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php, line 157
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Routing\Middleware\RoutingMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php, line 186
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Routing\Middleware\AssetMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php, line 68
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 131
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 67
+Cake\Http\Server::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php, line 90
+[main] C:\xampp\htdocs\cakephp\teste\webroot\index.php, line 40
+
+2023-08-28 01:49:12 warning: compact(): Undefined variable $nome
+Request URL: /
+Referer URL: http://localhost:8000/about
+Trace:
+compact [internal], line ??
+App\Controller\HomeController::index() C:\xampp\htdocs\cakephp\teste\src\Controller\HomeController.php, line 17
+Cake\Controller\Controller::invokeAction() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php, line 547
+Cake\Controller\ControllerFactory::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 139
+Cake\Controller\ControllerFactory::invoke() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 114
+Cake\Http\BaseApplication::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 320
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 86
+Cake\Http\Middleware\CsrfProtectionMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php, line 174
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Middleware\BodyParserMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php, line 157
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Routing\Middleware\RoutingMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php, line 186
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Routing\Middleware\AssetMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php, line 68
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 131
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 67
+Cake\Http\Server::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php, line 90
+[main] C:\xampp\htdocs\cakephp\teste\webroot\index.php, line 40
+
+2023-08-28 01:49:12 warning: compact(): Undefined variable $nome
+Request URL: /
+Referer URL: http://localhost:8000/about
+Trace:
+compact [internal], line ??
+App\Controller\HomeController::index() C:\xampp\htdocs\cakephp\teste\src\Controller\HomeController.php, line 17
+Cake\Controller\Controller::invokeAction() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php, line 547
+Cake\Controller\ControllerFactory::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 139
+Cake\Controller\ControllerFactory::invoke() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 114
+Cake\Http\BaseApplication::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 320
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 86
+Cake\Http\Middleware\CsrfProtectionMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php, line 174
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Middleware\BodyParserMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php, line 157
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Routing\Middleware\RoutingMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php, line 186
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Routing\Middleware\AssetMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php, line 68
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 131
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 67
+Cake\Http\Server::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php, line 90
+[main] C:\xampp\htdocs\cakephp\teste\webroot\index.php, line 40
+
+2023-08-28 01:49:12 warning: compact(): Undefined variable $nome
+Request URL: /
+Referer URL: http://localhost:8000/about
+Trace:
+compact [internal], line ??
+App\Controller\HomeController::index() C:\xampp\htdocs\cakephp\teste\src\Controller\HomeController.php, line 17
+Cake\Controller\Controller::invokeAction() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php, line 547
+Cake\Controller\ControllerFactory::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 139
+Cake\Controller\ControllerFactory::invoke() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 114
+Cake\Http\BaseApplication::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 320
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 86
+Cake\Http\Middleware\CsrfProtectionMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php, line 174
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Middleware\BodyParserMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php, line 157
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Routing\Middleware\RoutingMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php, line 186
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Routing\Middleware\AssetMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php, line 68
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 131
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 67
+Cake\Http\Server::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php, line 90
+[main] C:\xampp\htdocs\cakephp\teste\webroot\index.php, line 40
+
+2023-08-28 01:49:18 warning: compact(): Undefined variable $nome
+Request URL: /
+Referer URL: http://localhost:8000/about
+Trace:
+compact [internal], line ??
+App\Controller\HomeController::index() C:\xampp\htdocs\cakephp\teste\src\Controller\HomeController.php, line 17
+Cake\Controller\Controller::invokeAction() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php, line 547
+Cake\Controller\ControllerFactory::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 139
+Cake\Controller\ControllerFactory::invoke() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 114
+Cake\Http\BaseApplication::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 320
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 86
+Cake\Http\Middleware\CsrfProtectionMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php, line 174
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Middleware\BodyParserMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php, line 157
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Routing\Middleware\RoutingMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php, line 186
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Routing\Middleware\AssetMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php, line 68
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 131
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 67
+Cake\Http\Server::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php, line 90
+[main] C:\xampp\htdocs\cakephp\teste\webroot\index.php, line 40
+
+2023-08-28 01:49:28 warning: compact(): Undefined variable $nome
+Request URL: /
+Referer URL: http://localhost:8000/about
+Trace:
+compact [internal], line ??
+App\Controller\HomeController::index() C:\xampp\htdocs\cakephp\teste\src\Controller\HomeController.php, line 17
+Cake\Controller\Controller::invokeAction() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php, line 547
+Cake\Controller\ControllerFactory::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 139
+Cake\Controller\ControllerFactory::invoke() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 114
+Cake\Http\BaseApplication::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 320
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 86
+Cake\Http\Middleware\CsrfProtectionMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php, line 174
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Middleware\BodyParserMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php, line 157
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Routing\Middleware\RoutingMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php, line 186
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Routing\Middleware\AssetMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php, line 68
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 131
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 67
+Cake\Http\Server::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php, line 90
+[main] C:\xampp\htdocs\cakephp\teste\webroot\index.php, line 40
+
+2023-08-28 17:57:30 error: [Cake\Routing\Exception\MissingRouteException] A route matching "/home" could not be found. in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\RouteCollection.php on line 197
+Exception Attributes: array (
+  'url' => '/home',
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Router.php:232
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /home
+2023-08-28 18:06:18 error: [Cake\Routing\Exception\MissingRouteException] A route matching "/home" could not be found. in C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\RouteCollection.php on line 197
+Exception Attributes: array (
+  'url' => '/home',
+)
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Router.php:232
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /home

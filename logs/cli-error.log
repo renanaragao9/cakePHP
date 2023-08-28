@@ -1,0 +1,575 @@
+2023-08-26 02:47:12 error: [Symfony\Component\Console\Exception\CommandNotFoundException] Command "fresh" is not defined. in C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php on line 725
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:262
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:126
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\BaseCommand.php:189
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:198
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:334
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:172
+- C:\xampp\htdocs\cakephp\teste\bin\cake.php:12
+
+2023-08-26 02:47:17 error: [Symfony\Component\Console\Exception\CommandNotFoundException] Command "refresh" is not defined. in C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php on line 725
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:262
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:126
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\BaseCommand.php:189
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:198
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:334
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:172
+- C:\xampp\htdocs\cakephp\teste\bin\cake.php:12
+
+2023-08-26 03:00:46 error: [RuntimeException] "delete" is not a valid column option. in C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Table\Column.php on line 792
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\AbstractAdapter.php:291
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\AdapterWrapper.php:133
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\AdapterWrapper.php:133
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\AdapterWrapper.php:133
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Table.php:306
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Table.php:67
+- C:\xampp\htdocs\cakephp\teste\config\Migrations\20230826022658_Post.php:30
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager\Environment.php:104
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php:388
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php:586
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Console\Command\Rollback.php:125
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\Phinx\CommandTrait.php:37
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\Phinx\Rollback.php:81
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Command\Command.php:326
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:1063
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:126
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\BaseCommand.php:189
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:198
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:334
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:172
+- C:\xampp\htdocs\cakephp\teste\bin\cake.php:12
+
+2023-08-26 03:00:51 error: [RuntimeException] "delete" is not a valid column option. in C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Table\Column.php on line 792
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\AbstractAdapter.php:291
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\AdapterWrapper.php:133
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\AdapterWrapper.php:133
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\AdapterWrapper.php:133
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Table.php:306
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Table.php:67
+- C:\xampp\htdocs\cakephp\teste\config\Migrations\20230826022658_Post.php:30
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager\Environment.php:104
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php:388
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php:586
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Console\Command\Rollback.php:125
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\Phinx\CommandTrait.php:37
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\Phinx\Rollback.php:81
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Command\Command.php:326
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:1063
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:126
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\BaseCommand.php:189
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:198
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:334
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:172
+- C:\xampp\htdocs\cakephp\teste\bin\cake.php:12
+
+2023-08-26 03:01:27 error: [RuntimeException] "delete" is not a valid column option. in C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Table\Column.php on line 792
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\AbstractAdapter.php:291
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\AdapterWrapper.php:133
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\AdapterWrapper.php:133
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\AdapterWrapper.php:133
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Table.php:306
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Table.php:67
+- C:\xampp\htdocs\cakephp\teste\config\Migrations\20230826022658_Post.php:30
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager\Environment.php:104
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php:388
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php:586
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Console\Command\Rollback.php:125
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\Phinx\CommandTrait.php:37
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\Phinx\Rollback.php:81
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Command\Command.php:326
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:1063
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:126
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\BaseCommand.php:189
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:198
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:334
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:172
+- C:\xampp\htdocs\cakephp\teste\bin\cake.php:12
+
+2023-08-26 03:04:02 error: [PDOException] SQLSTATE[42S02]: Base table or view not found: 1051 Unknown table 'cakephp.posts' in C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\PdoAdapter.php on line 192
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\PdoAdapter.php:192
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Util\AlterInstructions.php:119
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\PdoAdapter.php:626
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\PdoAdapter.php:1001
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\AdapterWrapper.php:477
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\TimedOutputAdapter.php:420
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\AdapterWrapper.php:477
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Plan\Plan.php:166
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\ProxyAdapter.php:127
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager\Environment.php:105
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php:388
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php:586
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Console\Command\Rollback.php:125
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\Phinx\CommandTrait.php:37
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\Phinx\Rollback.php:81
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Command\Command.php:326
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:1063
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:126
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\BaseCommand.php:189
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:198
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:334
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:172
+- C:\xampp\htdocs\cakephp\teste\bin\cake.php:12
+
+2023-08-26 03:18:42 error: [ArgumentCountError] Too few arguments to function Composer\Factory::create(), 0 passed in C:\xampp\htdocs\cakephp\teste\config\Seeds\UserSeed.php on line 27 and at least 1 expected in C:\xampp\htdocs\cakephp\teste\vendor\composer\composer\src\Composer\Factory.php on line 611
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\config\Seeds\UserSeed.php:27
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager\Environment.php:146
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php:420
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php:612
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Console\Command\SeedRun.php:106
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\Phinx\CommandTrait.php:37
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\Phinx\Seed.php:76
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Command\Command.php:326
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:1063
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:126
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\BaseCommand.php:189
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:198
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:334
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:172
+- C:\xampp\htdocs\cakephp\teste\bin\cake.php:12
+
+2023-08-26 03:30:18 error: [InvalidArgumentException] Unknown format "setence" in C:\xampp\htdocs\cakephp\teste\vendor\fakerphp\faker\src\Faker\Generator.php on line 731
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\fakerphp\faker\src\Faker\Generator.php:696
+- C:\xampp\htdocs\cakephp\teste\vendor\fakerphp\faker\src\Faker\Generator.php:961
+- C:\xampp\htdocs\cakephp\teste\config\Seeds\PostSeed.php:29
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager\Environment.php:146
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php:420
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php:612
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Console\Command\SeedRun.php:106
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\Phinx\CommandTrait.php:37
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\Phinx\Seed.php:76
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Command\Command.php:326
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:1063
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:126
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\BaseCommand.php:189
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:198
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:334
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:172
+- C:\xampp\htdocs\cakephp\teste\bin\cake.php:12
+
+2023-08-26 03:33:10 error: [InvalidArgumentException] Unknown format "setence" in C:\xampp\htdocs\cakephp\teste\vendor\fakerphp\faker\src\Faker\Generator.php on line 731
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\fakerphp\faker\src\Faker\Generator.php:696
+- C:\xampp\htdocs\cakephp\teste\vendor\fakerphp\faker\src\Faker\Generator.php:961
+- C:\xampp\htdocs\cakephp\teste\config\Seeds\PostSeed.php:29
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\AbstractSeed.php:112
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\AbstractSeed.php:53
+- C:\xampp\htdocs\cakephp\teste\config\Seeds\DatabaseSeed.php:24
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager\Environment.php:146
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php:420
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php:612
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Console\Command\SeedRun.php:106
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\Phinx\CommandTrait.php:37
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\Phinx\Seed.php:76
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Command\Command.php:326
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:1063
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:126
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\BaseCommand.php:189
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:198
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:334
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:172
+- C:\xampp\htdocs\cakephp\teste\bin\cake.php:12
+
+2023-08-26 03:34:55 error: [InvalidArgumentException] Unknown format "setence" in C:\xampp\htdocs\cakephp\teste\vendor\fakerphp\faker\src\Faker\Generator.php on line 731
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\fakerphp\faker\src\Faker\Generator.php:696
+- C:\xampp\htdocs\cakephp\teste\vendor\fakerphp\faker\src\Faker\Generator.php:961
+- C:\xampp\htdocs\cakephp\teste\config\Seeds\PostSeed.php:29
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\AbstractSeed.php:112
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\AbstractSeed.php:53
+- C:\xampp\htdocs\cakephp\teste\config\Seeds\DatabaseSeed.php:24
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager\Environment.php:146
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php:420
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php:618
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Console\Command\SeedRun.php:110
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\Phinx\CommandTrait.php:37
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\Phinx\Seed.php:76
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Command\Command.php:326
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:1063
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:126
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\BaseCommand.php:189
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:198
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:334
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:172
+- C:\xampp\htdocs\cakephp\teste\bin\cake.php:12
+
+2023-08-26 03:35:58 error: [InvalidArgumentException] Unknown format "setence" in C:\xampp\htdocs\cakephp\teste\vendor\fakerphp\faker\src\Faker\Generator.php on line 731
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\fakerphp\faker\src\Faker\Generator.php:696
+- C:\xampp\htdocs\cakephp\teste\vendor\fakerphp\faker\src\Faker\Generator.php:961
+- C:\xampp\htdocs\cakephp\teste\config\Seeds\PostSeed.php:29
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\AbstractSeed.php:112
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\AbstractSeed.php:53
+- C:\xampp\htdocs\cakephp\teste\config\Seeds\DatabaseSeed.php:24
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager\Environment.php:146
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php:420
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php:618
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Console\Command\SeedRun.php:110
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\Phinx\CommandTrait.php:37
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\Phinx\Seed.php:76
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Command\Command.php:326
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:1063
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:126
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\BaseCommand.php:189
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:198
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:334
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:172
+- C:\xampp\htdocs\cakephp\teste\bin\cake.php:12
+
+2023-08-26 03:38:29 error: [InvalidArgumentException] Unknown format "setence" in C:\xampp\htdocs\cakephp\teste\vendor\fakerphp\faker\src\Faker\Generator.php on line 731
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\fakerphp\faker\src\Faker\Generator.php:696
+- C:\xampp\htdocs\cakephp\teste\vendor\fakerphp\faker\src\Faker\Generator.php:961
+- C:\xampp\htdocs\cakephp\teste\config\Seeds\PostSeed.php:29
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\AbstractSeed.php:112
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\AbstractSeed.php:53
+- C:\xampp\htdocs\cakephp\teste\config\Seeds\DatabaseSeed.php:24
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager\Environment.php:146
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php:420
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php:618
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Console\Command\SeedRun.php:110
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\Phinx\CommandTrait.php:37
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\Phinx\Seed.php:76
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Command\Command.php:326
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:1063
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:126
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\BaseCommand.php:189
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:198
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:334
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:172
+- C:\xampp\htdocs\cakephp\teste\bin\cake.php:12
+
+2023-08-26 03:39:50 error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`cakephp`.`posts`, CONSTRAINT `posts_ibfk_1` FOREIGN KEY (`users_id`) REFERENCES `users` (`id`) ON DELETE CASCADE) in C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\PdoAdapter.php on line 346
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\PdoAdapter.php:346
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\AdapterWrapper.php:181
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\TimedOutputAdapter.php:102
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\AdapterWrapper.php:181
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Table.php:656
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Table.php:628
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Table.php:686
+- C:\xampp\htdocs\cakephp\teste\config\Seeds\PostSeed.php:36
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\AbstractSeed.php:112
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\AbstractSeed.php:53
+- C:\xampp\htdocs\cakephp\teste\config\Seeds\DatabaseSeed.php:24
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager\Environment.php:146
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php:420
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php:618
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Console\Command\SeedRun.php:110
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\Phinx\CommandTrait.php:37
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\Phinx\Seed.php:76
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Command\Command.php:326
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:1063
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:126
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\BaseCommand.php:189
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:198
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:334
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:172
+- C:\xampp\htdocs\cakephp\teste\bin\cake.php:12
+
+2023-08-26 03:42:29 error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`cakephp`.`posts`, CONSTRAINT `posts_ibfk_1` FOREIGN KEY (`users_id`) REFERENCES `users` (`id`) ON DELETE CASCADE) in C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\PdoAdapter.php on line 346
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\PdoAdapter.php:346
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\AdapterWrapper.php:181
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\TimedOutputAdapter.php:102
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\AdapterWrapper.php:181
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Table.php:656
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Table.php:628
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Table.php:686
+- C:\xampp\htdocs\cakephp\teste\config\Seeds\PostSeed.php:36
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\AbstractSeed.php:112
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\AbstractSeed.php:53
+- C:\xampp\htdocs\cakephp\teste\config\Seeds\DatabaseSeed.php:24
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager\Environment.php:146
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php:420
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php:618
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Console\Command\SeedRun.php:110
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\Phinx\CommandTrait.php:37
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\Phinx\Seed.php:76
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Command\Command.php:326
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:1063
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:126
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\BaseCommand.php:189
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:198
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:334
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:172
+- C:\xampp\htdocs\cakephp\teste\bin\cake.php:12
+
+2023-08-26 03:45:07 error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`cakephp`.`posts`, CONSTRAINT `posts_ibfk_1` FOREIGN KEY (`users_id`) REFERENCES `users` (`id`) ON DELETE CASCADE) in C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\PdoAdapter.php on line 346
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\PdoAdapter.php:346
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\AdapterWrapper.php:181
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\TimedOutputAdapter.php:102
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\AdapterWrapper.php:181
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Table.php:656
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Table.php:628
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Table.php:686
+- C:\xampp\htdocs\cakephp\teste\config\Seeds\PostSeed.php:36
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager\Environment.php:146
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php:420
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php:618
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Console\Command\SeedRun.php:110
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\Phinx\CommandTrait.php:37
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\Phinx\Seed.php:76
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Command\Command.php:326
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:1063
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:126
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\BaseCommand.php:189
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:198
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:334
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:172
+- C:\xampp\htdocs\cakephp\teste\bin\cake.php:12
+
+2023-08-26 03:46:10 error: [InvalidArgumentException] Unknown format "random_int" in C:\xampp\htdocs\cakephp\teste\vendor\fakerphp\faker\src\Faker\Generator.php on line 731
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\fakerphp\faker\src\Faker\Generator.php:696
+- C:\xampp\htdocs\cakephp\teste\vendor\fakerphp\faker\src\Faker\Generator.php:961
+- C:\xampp\htdocs\cakephp\teste\config\Seeds\PostSeed.php:32
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager\Environment.php:146
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php:420
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php:618
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Console\Command\SeedRun.php:110
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\Phinx\CommandTrait.php:37
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\Phinx\Seed.php:76
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Command\Command.php:326
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:1063
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:126
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\BaseCommand.php:189
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:198
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:334
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:172
+- C:\xampp\htdocs\cakephp\teste\bin\cake.php:12
+
+2023-08-26 03:46:27 error: [InvalidArgumentException] Unknown format "random_int" in C:\xampp\htdocs\cakephp\teste\vendor\fakerphp\faker\src\Faker\Generator.php on line 731
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\fakerphp\faker\src\Faker\Generator.php:696
+- C:\xampp\htdocs\cakephp\teste\vendor\fakerphp\faker\src\Faker\Generator.php:952
+- C:\xampp\htdocs\cakephp\teste\config\Seeds\PostSeed.php:32
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager\Environment.php:146
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php:420
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php:618
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Console\Command\SeedRun.php:110
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\Phinx\CommandTrait.php:37
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\Phinx\Seed.php:76
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Command\Command.php:326
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:1063
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:126
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\BaseCommand.php:189
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:198
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:334
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:172
+- C:\xampp\htdocs\cakephp\teste\bin\cake.php:12
+
+2023-08-26 03:47:07 error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`cakephp`.`posts`, CONSTRAINT `posts_ibfk_1` FOREIGN KEY (`users_id`) REFERENCES `users` (`id`) ON DELETE CASCADE) in C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\PdoAdapter.php on line 346
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\PdoAdapter.php:346
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\AdapterWrapper.php:181
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\TimedOutputAdapter.php:102
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\AdapterWrapper.php:181
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Table.php:656
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Table.php:628
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Table.php:686
+- C:\xampp\htdocs\cakephp\teste\config\Seeds\PostSeed.php:36
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager\Environment.php:146
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php:420
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php:618
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Console\Command\SeedRun.php:110
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\Phinx\CommandTrait.php:37
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\Phinx\Seed.php:76
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Command\Command.php:326
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:1063
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:126
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\BaseCommand.php:189
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:198
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:334
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:172
+- C:\xampp\htdocs\cakephp\teste\bin\cake.php:12
+
+2023-08-26 03:47:54 error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`cakephp`.`posts`, CONSTRAINT `posts_ibfk_1` FOREIGN KEY (`users_id`) REFERENCES `users` (`id`) ON DELETE CASCADE) in C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\PdoAdapter.php on line 346
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\PdoAdapter.php:346
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\AdapterWrapper.php:181
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\TimedOutputAdapter.php:102
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\AdapterWrapper.php:181
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Table.php:656
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Table.php:628
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Table.php:686
+- C:\xampp\htdocs\cakephp\teste\config\Seeds\PostSeed.php:35
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager\Environment.php:146
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php:420
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php:618
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Console\Command\SeedRun.php:110
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\Phinx\CommandTrait.php:37
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\Phinx\Seed.php:76
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Command\Command.php:326
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:1063
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:126
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\BaseCommand.php:189
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:198
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:334
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:172
+- C:\xampp\htdocs\cakephp\teste\bin\cake.php:12
+
+2023-08-26 03:49:11 error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'field list' in C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\PdoAdapter.php on line 346
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\PdoAdapter.php:346
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\AdapterWrapper.php:181
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\TimedOutputAdapter.php:102
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\AdapterWrapper.php:181
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Table.php:656
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Table.php:628
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Table.php:686
+- C:\xampp\htdocs\cakephp\teste\config\Seeds\PostSeed.php:36
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager\Environment.php:146
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php:420
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php:618
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Console\Command\SeedRun.php:110
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\Phinx\CommandTrait.php:37
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\Phinx\Seed.php:76
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Command\Command.php:326
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:1063
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:126
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\BaseCommand.php:189
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:198
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:334
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:172
+- C:\xampp\htdocs\cakephp\teste\bin\cake.php:12
+
+2023-08-26 03:50:27 error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`cakephp`.`posts`, CONSTRAINT `posts_ibfk_1` FOREIGN KEY (`users_id`) REFERENCES `users` (`id`) ON DELETE CASCADE) in C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\PdoAdapter.php on line 346
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\PdoAdapter.php:346
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\AdapterWrapper.php:181
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\TimedOutputAdapter.php:102
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\AdapterWrapper.php:181
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Table.php:656
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Table.php:628
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Db\Table.php:686
+- C:\xampp\htdocs\cakephp\teste\config\Seeds\PostSeed.php:36
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager\Environment.php:146
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php:420
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php:618
+- C:\xampp\htdocs\cakephp\teste\vendor\robmorgan\phinx\src\Phinx\Console\Command\SeedRun.php:110
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\Phinx\CommandTrait.php:37
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\Phinx\Seed.php:76
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Command\Command.php:326
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:1063
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:320
+- C:\xampp\htdocs\cakephp\teste\vendor\symfony\console\Application.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:126
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\BaseCommand.php:189
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:198
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:334
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:172
+- C:\xampp\htdocs\cakephp\teste\bin\cake.php:12
+
+2023-08-27 22:36:38 error: [ParseError] syntax error, unexpected token ":", expecting ")" in C:\xampp\htdocs\cakephp\teste\config\routes.php on line 7
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:397
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:147
+- C:\xampp\htdocs\cakephp\teste\bin\cake.php:12
+
+2023-08-27 22:36:54 error: [ParseError] syntax error, unexpected token ":", expecting ")" in C:\xampp\htdocs\cakephp\teste\config\routes.php on line 7
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:397
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:147
+- C:\xampp\htdocs\cakephp\teste\bin\cake.php:12
+
+2023-08-27 22:37:15 error: [ParseError] syntax error, unexpected token ":", expecting ")" in C:\xampp\htdocs\cakephp\teste\config\routes.php on line 7
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:397
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:147
+- C:\xampp\htdocs\cakephp\teste\bin\cake.php:12
+
+2023-08-27 22:38:26 error: [ParseError] syntax error, unexpected token ":", expecting ")" in C:\xampp\htdocs\cakephp\teste\config\routes.php on line 7
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:397
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:147
+- C:\xampp\htdocs\cakephp\teste\bin\cake.php:12
+
+2023-08-27 22:38:36 error: [ParseError] syntax error, unexpected token ":", expecting ")" in C:\xampp\htdocs\cakephp\teste\config\routes.php on line 7
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:397
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:147
+- C:\xampp\htdocs\cakephp\teste\bin\cake.php:12
+
+2023-08-27 22:38:46 error: [ParseError] syntax error, unexpected token ":", expecting ")" in C:\xampp\htdocs\cakephp\teste\config\routes.php on line 7
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:397
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:147
+- C:\xampp\htdocs\cakephp\teste\bin\cake.php:12
+
+2023-08-27 22:40:13 error: [ParseError] syntax error, unexpected token ":", expecting ")" in C:\xampp\htdocs\cakephp\teste\config\routes.php on line 7
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:397
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:147
+- C:\xampp\htdocs\cakephp\teste\bin\cake.php:12
+
+2023-08-27 22:40:20 error: [ParseError] syntax error, unexpected token ":", expecting ")" in C:\xampp\htdocs\cakephp\teste\config\routes.php on line 7
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:397
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:147
+- C:\xampp\htdocs\cakephp\teste\bin\cake.php:12
+
+2023-08-27 22:40:26 error: [ParseError] syntax error, unexpected token ":", expecting ")" in C:\xampp\htdocs\cakephp\teste\config\routes.php on line 7
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:397
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:147
+- C:\xampp\htdocs\cakephp\teste\bin\cake.php:12
+
+2023-08-27 22:41:07 error: [ParseError] syntax error, unexpected token ":", expecting ")" in C:\xampp\htdocs\cakephp\teste\config\routes.php on line 7
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:397
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:147
+- C:\xampp\htdocs\cakephp\teste\bin\cake.php:12
+
+2023-08-27 22:50:28 error: [ParseError] syntax error, unexpected token ":", expecting ")" in C:\xampp\htdocs\cakephp\teste\config\routes.php on line 7
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:397
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Console\CommandRunner.php:147
+- C:\xampp\htdocs\cakephp\teste\bin\cake.php:12
+
