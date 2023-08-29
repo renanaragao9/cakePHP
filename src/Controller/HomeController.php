@@ -4,6 +4,7 @@ declare(strict_types=1);
 namespace App\Controller;
 
 use Cake\Datasource\ConnectionManager;
+use Cake\ORM\TableRegistry;
 
 /**
  * Home Controller
@@ -13,27 +14,21 @@ class HomeController extends AppController
 {
     public function index() {
 
-        $connection = ConnectionManager::get('default');
+         $tableUsers = TableRegistry::getTableLocator()->get('Users');
+         
+         $users = $tableUsers->query();
+
+         $userEntity = $tableUsers->newEmptyEntity();
+         $userEntity->firstName = 'Alexandre';
+         $userEntity->lastName = 'Cardoso';
+         $userEntity->email = 'email@teste.com';
+         $userEntity->password = password_hash('123', PASSWORD_DEFAULT);
+         
+         $saved =  $tableUsers->save($userEntity);
+
+         $this->set(compact('users'));
+
+         $this->render('index', 'master');
         
-        //$users = $connection->execute('select * from users')->fetchAll('obj');
-
-        //$users = $connection->newQuery()->select('*')->from('users')->where(['id >' => 70])->execute()->fetchAll('obj');
-
-        $connection->insert('users', [
-            'firstName' => 'Juan',
-            'lastName' => 'Victor',
-            'email' => 'email@email.com.pt',
-            'password' => password_hash('123', PASSWORD_DEFAULT)
-        ]);
-
-        $users = $connection->execute('select * from users')->fetchAll('obj');
-
-
-        $name = 'Renan';
-        $age = 41;
-
-        $this->set(compact('users'));
-
-        return $this->render('index', 'master');
     }
 }

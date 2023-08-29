@@ -2051,3 +2051,213 @@ Stack Trace:
 - C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
 
 Request URL: /home
+2023-08-29 01:24:02 warning: Undefined variable $users
+Request URL: /
+Trace:
+include C:\xampp\htdocs\cakephp\teste\templates\Home\index.php, line 2
+Cake\View\View::_evaluate() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php, line 1220
+Cake\View\View::_render() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php, line 1177
+Cake\View\View::render() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php, line 808
+Cake\Controller\Controller::render() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php, line 773
+Cake\Controller\Controller::invokeAction() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php, line 556
+Cake\Controller\ControllerFactory::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 139
+Cake\Controller\ControllerFactory::invoke() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 114
+Cake\Http\BaseApplication::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 320
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 86
+Cake\Http\Middleware\CsrfProtectionMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php, line 164
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Middleware\BodyParserMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php, line 157
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Routing\Middleware\RoutingMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php, line 186
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Routing\Middleware\AssetMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php, line 68
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 131
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 67
+Cake\Http\Server::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php, line 90
+[main] C:\xampp\htdocs\cakephp\teste\webroot\index.php, line 40
+
+2023-08-29 01:24:02 warning: foreach() argument must be of type array|object, null given
+Request URL: /
+Trace:
+include C:\xampp\htdocs\cakephp\teste\templates\Home\index.php, line 2
+Cake\View\View::_evaluate() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php, line 1220
+Cake\View\View::_render() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php, line 1177
+Cake\View\View::render() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php, line 808
+Cake\Controller\Controller::render() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php, line 773
+Cake\Controller\Controller::invokeAction() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php, line 556
+Cake\Controller\ControllerFactory::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 139
+Cake\Controller\ControllerFactory::invoke() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 114
+Cake\Http\BaseApplication::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 320
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 86
+Cake\Http\Middleware\CsrfProtectionMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php, line 164
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Middleware\BodyParserMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php, line 157
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Routing\Middleware\RoutingMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php, line 186
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Routing\Middleware\AssetMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php, line 68
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 131
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 67
+Cake\Http\Server::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php, line 90
+[main] C:\xampp\htdocs\cakephp\teste\webroot\index.php, line 40
+
+2023-08-29 01:24:10 warning: Undefined variable $users
+Request URL: /
+Trace:
+include C:\xampp\htdocs\cakephp\teste\templates\Home\index.php, line 2
+Cake\View\View::_evaluate() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php, line 1220
+Cake\View\View::_render() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php, line 1177
+Cake\View\View::render() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php, line 808
+Cake\Controller\Controller::render() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php, line 773
+Cake\Controller\Controller::invokeAction() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php, line 556
+Cake\Controller\ControllerFactory::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 139
+Cake\Controller\ControllerFactory::invoke() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 114
+Cake\Http\BaseApplication::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 320
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 86
+Cake\Http\Middleware\CsrfProtectionMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php, line 164
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Middleware\BodyParserMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php, line 157
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Routing\Middleware\RoutingMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php, line 186
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Routing\Middleware\AssetMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php, line 68
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 131
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 67
+Cake\Http\Server::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php, line 90
+[main] C:\xampp\htdocs\cakephp\teste\webroot\index.php, line 40
+
+2023-08-29 01:24:10 warning: foreach() argument must be of type array|object, null given
+Request URL: /
+Trace:
+include C:\xampp\htdocs\cakephp\teste\templates\Home\index.php, line 2
+Cake\View\View::_evaluate() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php, line 1220
+Cake\View\View::_render() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php, line 1177
+Cake\View\View::render() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php, line 808
+Cake\Controller\Controller::render() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php, line 773
+Cake\Controller\Controller::invokeAction() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php, line 556
+Cake\Controller\ControllerFactory::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 139
+Cake\Controller\ControllerFactory::invoke() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 114
+Cake\Http\BaseApplication::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 320
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 86
+Cake\Http\Middleware\CsrfProtectionMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php, line 164
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Middleware\BodyParserMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php, line 157
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Routing\Middleware\RoutingMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php, line 186
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Routing\Middleware\AssetMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php, line 68
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 131
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 67
+Cake\Http\Server::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php, line 90
+[main] C:\xampp\htdocs\cakephp\teste\webroot\index.php, line 40
+
+2023-08-29 01:29:20 warning: Undefined variable $users
+Request URL: /
+Trace:
+include C:\xampp\htdocs\cakephp\teste\templates\Home\index.php, line 2
+Cake\View\View::_evaluate() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php, line 1220
+Cake\View\View::_render() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php, line 1177
+Cake\View\View::render() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php, line 808
+Cake\Controller\Controller::render() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php, line 773
+Cake\Controller\Controller::invokeAction() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php, line 556
+Cake\Controller\ControllerFactory::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 139
+Cake\Controller\ControllerFactory::invoke() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 114
+Cake\Http\BaseApplication::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 320
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 86
+Cake\Http\Middleware\CsrfProtectionMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php, line 174
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Middleware\BodyParserMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php, line 157
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Routing\Middleware\RoutingMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php, line 186
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Routing\Middleware\AssetMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php, line 68
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 131
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 67
+Cake\Http\Server::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php, line 90
+[main] C:\xampp\htdocs\cakephp\teste\webroot\index.php, line 40
+
+2023-08-29 01:29:20 warning: foreach() argument must be of type array|object, null given
+Request URL: /
+Trace:
+include C:\xampp\htdocs\cakephp\teste\templates\Home\index.php, line 2
+Cake\View\View::_evaluate() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php, line 1220
+Cake\View\View::_render() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php, line 1177
+Cake\View\View::render() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\View\View.php, line 808
+Cake\Controller\Controller::render() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php, line 773
+Cake\Controller\Controller::invokeAction() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php, line 556
+Cake\Controller\ControllerFactory::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 139
+Cake\Controller\ControllerFactory::invoke() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 114
+Cake\Http\BaseApplication::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 320
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 86
+Cake\Http\Middleware\CsrfProtectionMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php, line 174
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Middleware\BodyParserMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php, line 157
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Routing\Middleware\RoutingMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php, line 186
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Routing\Middleware\AssetMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php, line 68
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 131
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 67
+Cake\Http\Server::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php, line 90
+[main] C:\xampp\htdocs\cakephp\teste\webroot\index.php, line 40
+
+2023-08-29 01:37:12 error: [ParseError] syntax error, unexpected token "=>", expecting ")" in C:\xampp\htdocs\cakephp\teste\src\Controller\HomeController.php on line 19
+Stack Trace:
+- C:\xampp\htdocs\cakephp\teste\vendor\composer\ClassLoader.php:433
+- [internal]:??
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Core\App.php:161
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Core\App.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:337
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:72
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\cakephp\teste\webroot\index.php:40
+
+Request URL: /
+2023-08-29 02:06:30 warning: Undefined variable $user
+Request URL: /
+Trace:
+App\Controller\HomeController::index() C:\xampp\htdocs\cakephp\teste\src\Controller\HomeController.php, line 29
+Cake\Controller\Controller::invokeAction() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\Controller.php, line 547
+Cake\Controller\ControllerFactory::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 139
+Cake\Controller\ControllerFactory::invoke() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 114
+Cake\Http\BaseApplication::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 320
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 86
+Cake\Http\Middleware\CsrfProtectionMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php, line 174
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Middleware\BodyParserMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php, line 157
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Routing\Middleware\RoutingMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php, line 186
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Routing\Middleware\AssetMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php, line 68
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 131
+Cake\Http\Runner::handle() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Runner.php, line 67
+Cake\Http\Server::run() C:\xampp\htdocs\cakephp\teste\vendor\cakephp\cakephp\src\Http\Server.php, line 90
+[main] C:\xampp\htdocs\cakephp\teste\webroot\index.php, line 40
+
