@@ -14,17 +14,17 @@ class HomeController extends AppController
 {
     public function index() {
 
-         $tableUsers = TableRegistry::getTableLocator()->get('Users');
-         
-         $users = $tableUsers->query();
+         $tablePosts = TableRegistry::getTableLocator()->get('Posts');
+         $posts = $tablePosts->find()->contain(['Users']);
 
-         $userEntity = $tableUsers->newEmptyEntity();
-         $userEntity->firstName = 'Alexandre';
-         $userEntity->lastName = 'Cardoso';
-         $userEntity->email = 'email@teste.com';
-         $userEntity->password = password_hash('123', PASSWORD_DEFAULT);
-         
-         $saved =  $tableUsers->save($userEntity);
+         $tableUsers = TableRegistry::getTableLocator()->get('Users');
+         $query = $tableUsers->find();
+
+        $users = $this->paginate($query, [
+            'limit' => 8,
+        ]);
+
+  
 
          $this->set(compact('users'));
 

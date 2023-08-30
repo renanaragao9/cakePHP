@@ -8,6 +8,8 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Abel&family=Roboto:wght@100&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
+    <!-- Option 1: Include in HTML -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
     <?= $this->fetch('css') ?>
     <?= $this->fetch('script') ?>
 
@@ -16,8 +18,7 @@
 <body>
 
     <div class="container">
-        
-        <h2>Curso de cakePHP</h2>
+        <h2>Curso de cakePHP Renan</h2>
         <?= $this->fetch('content') ?> 
     </div>
 
